@@ -10,7 +10,11 @@
 
 # Скриншоты
 <p float="left">
+<p float="left">
+  <img src="https://raw.githubusercontent.com/NoshinDev/mgppu-vote-system/main/assets/main.jpg" width="350" />
+  <img src="https://raw.githubusercontent.com/NoshinDev/mgppu-vote-system/main/assets/form.jpg" width="350" />
 
+ </p>
 
 
 
